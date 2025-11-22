@@ -39,52 +39,140 @@
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
+### 👨‍💻 Who Am I?
+
+I'm a passionate **Data Scientist** and **Software Developer** on a mission to bridge the gap between cutting-edge AI research and real-world applications. Currently pursuing my **Master's in Data Science** at **IIIT Lucknow**, I specialize in building intelligent systems that make a difference.
+
+With a strong foundation in **Mathematics, Statistics, and Computer Science**, I've evolved from understanding theoretical concepts to deploying production-grade ML systems. My journey has been enriched by multiple internships at **Amazon Web Services**, where I've worked across **AI/ML, Data Engineering, and Cloud Architecture**.
+
+### 🎯 What Drives Me?
+
+- 🧠 **AI Innovation**: Exploring the frontiers of **LLMs**, **RAG architectures**, and **multi-agent systems**
+- 🔧 **Building Solutions**: Creating scalable, production-ready ML systems that solve real problems
+- 🌱 **Continuous Learning**: Staying ahead with latest research in **Generative AI**, **Computer Vision**, and **NLP**
+- 🤝 **Collaboration**: Working with teams to deliver impactful AI-driven products
+- 📊 **Data-Driven Decisions**: Transforming complex data into actionable insights
+
+### 💼 Professional Snapshot
+
 <table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-🎓 **Master's Student** @ **IIIT Lucknow**
-💼 Specializing in **Data Science & AI**
-🚀 Building **ML Systems** & **LLM Apps**
-🌍 Based in **Lucknow, India**
+**🎓 Education**
+<br>
+M.Tech in Data Science
+<br>
+IIIT Lucknow
+<br>
+<sub>2024-2026</sub>
 
 </td>
-<td width="50%">
+<td width="33%" align="center">
 
-```yaml
-quick_stats:
-  projects_completed: 15+
-  internships: 4
-  certifications: 3
-  coffee_consumed: ∞
-```
+**💻 Experience**
+<br>
+4 Internships
+<br>
+AWS & Edurva Learning
+<br>
+<sub>2023-Present</sub>
+
+</td>
+<td width="33%" align="center">
+
+**🏆 Achievements**
+<br>
+15+ Projects
+<br>
+3 AWS Certifications
+<br>
+<sub>Multiple Domains</sub>
 
 </td>
 </tr>
 </table>
 
-<br>
+### 🛠️ Technical Journey
 
 ```python
 class KasiChebrolu:
     def __init__(self):
+        self.name = "Kasi Chebrolu"
         self.role = "Data Scientist & Software Developer"
-        self.location = "Lucknow, India"
-        self.education = "Masters @ IIIT Lucknow"
-        self.interests = [
-            "Advanced AI Agents",
-            "LLM Applications", 
-            "Multi-Agent Systems",
-            "RAG Architectures",
-            "MLOps & Cloud"
+        self.location = "Lucknow, India 🇮🇳"
+        self.education = {
+            "masters": "M.Tech in Data Science @ IIIT Lucknow",
+            "bachelors": "B.Sc in Math, Stats & CS @ AKNU"
+        }
+        self.current_focus = [
+            "🤖 Advanced AI Agents & Multi-Agent Systems",
+            "🧠 Large Language Models & RAG Architectures",
+            "☁️ MLOps & Cloud-Native ML Solutions",
+            "📊 End-to-End Data Engineering Pipelines",
+            "🔍 Deep Learning for CV & NLP"
         ]
-    
+        self.work_experience = {
+            "Edurva Learning": "Data Scientist Intern (2025)",
+            "AWS": ["AI/ML Intern", "Data Engineering Intern", "Cloud Intern"]
+        }
+        
     def say_hi(self):
-        return "Thanks for dropping by! Let's build something amazing together!"
+        print("👋 Hey there! Thanks for stopping by!")
+        print("💡 I'm passionate about turning data into intelligence")
+        print("🚀 Let's connect and build something amazing together!")
+        print("📧 Reach out: kasichebrolu369@gmail.com")
+        
+    def current_status(self):
+        return {
+            "learning": "Advanced LLM Fine-tuning & Agent Orchestration",
+            "working_on": "AI-powered research assistant with RAG",
+            "collaborating_on": "Open-source ML projects",
+            "looking_for": "Opportunities in AI/ML & Data Science",
+            "fun_fact": "I debug with coffee ☕ and patience 😊"
+        }
 
 me = KasiChebrolu()
-print(me.say_hi())
+me.say_hi()
+print(f"\n📌 Current Status: {me.current_status()}")
 ```
+
+### 📈 My Journey in Numbers
+
+<div align="center">
+
+| 🎓 Years of Learning | 💼 Professional Projects | ☁️ Cloud Platforms | 🧠 ML Models Deployed | 📚 Research Papers Read |
+|:-------------------:|:-----------------------:|:-----------------:|:--------------------:|:----------------------:|
+| 6+ | 15+ | 3 | 10+ | 50+ |
+
+</div>
+
+### 🌟 What I Bring to the Table
+
+<table>
+<tr>
+<td width="50%">
+
+**🎯 Technical Excellence**
+- End-to-end ML pipeline development
+- Scalable cloud architecture design
+- Advanced NLP & Computer Vision
+- Real-time data processing systems
+- Production-grade code quality
+
+</td>
+<td width="50%">
+
+**🤝 Soft Skills**
+- Problem-solving mindset
+- Team collaboration & leadership
+- Clear technical communication
+- Agile & DevOps methodologies
+- Continuous learning attitude
+
+</td>
+</tr>
+</table>
 
 <br>
 
