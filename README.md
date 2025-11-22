@@ -1,33 +1,84 @@
 <div align="center">
-  
-# 👋 Hi, I'm Kasi Chebrolu
 
-### 🚀 Data Scientist | AI/ML Engineer | Cloud Enthusiast
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6A5ACD&center=true&vCenter=true&random=false&width=600&lines=Hi+%F0%9F%91%8B+I'm+Kasi+Chebrolu;Data+Scientist+%7C+AI%2FML+Engineer;Software+Developer+%7C+Cloud+Enthusiast;Building+Intelligent+Systems+%F0%9F%9A%80" alt="Typing SVG" />
 
-*Transforming data into intelligent solutions through machine learning, deep learning, and cloud technologies*
+<h3 align="center">🌟 Transforming Data into Intelligence | Building the Future with AI 🌟</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kasi-chebrolu/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kasichebrolu369-hue)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kasichebrolu369@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kasiportfolio.netlify.app/)
-[![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=phone&logoColor=white)](tel:+919121434693)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kasichebrolu369-hue&label=Profile%20Views&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/kasichebrolu369-hue?label=Followers&style=flat-square&color=blue" alt="followers" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kasi-chebrolu/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/kasichebrolu369-hue">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:kasichebrolu369@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://kasiportfolio.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="tel:+919121434693">
+    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
+  </a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💫 About Me
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> About Me
 
-I'm a passionate Data Scientist pursuing my Master's at IIIT Lucknow, specializing in AI/ML, Deep Learning, and Cloud Computing. With hands-on experience in building production-grade ML systems, LLM applications, and scalable data pipelines, I thrive on solving complex problems with innovative solutions.
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
-- 🔭 Currently working on **Advanced AI Agents and LLM Applications**
-- 🌱 Exploring **Multi-Agent Systems, RAG Architectures, and MLOps**
-- 💡 Passionate about **Generative AI, Computer Vision, and NLP**
-- 🎯 Goal: Contributing to cutting-edge AI research and real-world applications
+🎓 **Master's Student** at **IIIT Lucknow** specializing in **Data Science**
 
----
+💼 Crafting intelligent solutions at the intersection of **AI, ML, and Cloud Computing**
 
-## 🛠️ Technical Skills
+🚀 Building production-grade **ML systems**, **LLM applications**, and **scalable data pipelines**
+
+<br>
+
+```python
+class KasiChebrolu:
+    def __init__(self):
+        self.role = "Data Scientist & Software Developer"
+        self.location = "Lucknow, India"
+        self.education = "M.Tech @ IIIT Lucknow"
+        self.interests = [
+            "Advanced AI Agents",
+            "LLM Applications", 
+            "Multi-Agent Systems",
+            "RAG Architectures",
+            "MLOps & Cloud"
+        ]
+    
+    def say_hi(self):
+        return "Thanks for dropping by! Let's build something amazing together!"
+
+me = KasiChebrolu()
+print(me.say_hi())
+```
+
+<br>
+
+### 🎯 Current Focus
+
+- 🔭 Building **Advanced AI Agents** and **LLM Applications**
+- 🌱 Exploring **Multi-Agent Systems**, **RAG Architectures**, and **MLOps**
+- 💡 Deep diving into **Generative AI**, **Computer Vision**, and **NLP**
+- 🎓 Contributing to **cutting-edge AI research** and **real-world applications**
+- 🤝 Open to **collaborations** on innovative AI/ML projects
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28px"> Technical Arsenal
 
 ### 💻 Programming Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -63,9 +114,9 @@ I'm a passionate Data Scientist pursuing my Master's at IIIT Lucknow, specializi
 
 **Tools:** ETL Pipelines • Delta Live Tables • Azure DevOps • Kafka • Prefect • Grafana
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 💼 Professional Experience
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"> Professional Journey
 
 ### 🔹 Data Scientist Intern
 **Edurva Learning** | *2025*
@@ -91,9 +142,9 @@ I'm a passionate Data Scientist pursuing my Master's at IIIT Lucknow, specializi
 - Implemented CI/CD pipelines with AWS DevOps tools
 - Managed cloud resources and optimized costs
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🚀 Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Featured Projects
 
 ### 🤖 [AIOps Change Failure Prediction](https://github.com/kasichebrolu369-hue)
 Built an intelligent system to predict deployment failures using **Random Forest**, integrated with **Kafka** for streaming data, orchestrated with **Prefect**, and monitored via **Grafana** dashboards.
@@ -120,9 +171,9 @@ Built an interactive forecasting dashboard combining **LSTM** neural networks an
 
 **Tech Stack:** `LSTM` `ARIMA` `TensorFlow` `Streamlit` `Pandas`
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🎓 Education
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="35"> Education
 
 ### 🎯 Master of Technology in Data Science
 **Indian Institute of Information Technology, Lucknow** | *2024 - 2026*
@@ -152,16 +203,25 @@ Built an interactive forecasting dashboard combining **LSTM** neural networks an
 
 ---
 
-## 📊 GitHub Statistics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> GitHub Analytics
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kasichebrolu369-hue&show_icons=true&theme=radical&hide_border=true&count_private=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=kasichebrolu369-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kasichebrolu369-hue&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kasichebrolu369-hue&theme=radical&hide_border=true)
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kasichebrolu369-hue&layout=compact&theme=radical&hide_border=true)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kasichebrolu369-hue&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kasichebrolu369-hue&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=kasichebrolu369-hue&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -175,18 +235,36 @@ Built an interactive forecasting dashboard combining **LSTM** neural networks an
 
 ---
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 <div align="center">
 
-### 💬 Let's Connect!
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> Let's Connect and Build Something Amazing!
 
-*I'm always excited to collaborate on innovative projects and discuss emerging technologies in AI/ML*
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="50">
 
-**"Turning data into intelligence, one model at a time"** 🚀
+### 💬 Open to Collaborations | AI/ML Projects | Research Opportunities
 
----
+<br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=kasichebrolu369-hue&color=blueviolet&style=for-the-badge)
+<i>"Turning data into intelligence, one model at a time"</i> 🚀
 
-⭐️ From [kasichebrolu369-hue](https://github.com/kasichebrolu369-hue) | Built with ❤️ and Markdown
+<br>
+
+### Show some ❤️ by starring ⭐ some of my repositories!
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<br>
+
+### 🐍 Watch my contribution graph get eaten by the snake!
+
+![Snake animation](https://raw.githubusercontent.com/kasichebrolu369-hue/kasichebrolu369-hue/output/github-contribution-grid-snake-dark.svg)
+
+<br>
+
+**Built with 💜 by [Kasi Chebrolu](https://github.com/kasichebrolu369-hue)**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 
 </div>
